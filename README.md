@@ -30,7 +30,7 @@
 	<a href="mailto:gabryellcorrea.dev@gmail.com" target="_blank">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/-gabryellcorrea.dev-c14438?&style=plastic&logo=Gmail&logoColor=white" title="Gmail Badge" />
   </a>
-	<a href="https://www.facebook.com/profile.php?id=3350122985111115" target="_blank">
+	<a href="https://www.facebook.com/gabryellpedroso" target="_blank">
     <img alt="Facebook Badge" src="https://img.shields.io/badge/-Gabryell%20Pedroso-blue?&style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004317732004" title="Facebook Badge" />
   </a>
 	<a href="https://api.whatsapp.com/send?phone=+5513996922826&text=Olá,+vi+seu+GitHub&source=&data=&app_absent=" target="_blank">

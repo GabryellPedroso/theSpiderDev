@@ -110,7 +110,7 @@ Meu top 3 de projetos mais famosos: 🏆
 3. 🥉 [Rede Social](https://rede.social) · Participe da sua Rede Social favorita em apenas poucos cliques!
 
 <!-- GitHub Stats -->
-
+## Estatísticas do GitHub &#129302;
 <p align="left">
 	<img alt="Gabryell Pedroso GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=theSpiderDev&theme=chartreuse-dark&show_icons=true&hide_border=true" title="Gabryell Pedroso GitHub Stats" />
 </p>

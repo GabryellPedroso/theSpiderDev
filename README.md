@@ -86,7 +86,7 @@
 
 👨🏻‍💻 Me chamo **Gabryell**, tenho 22 anos, sou formado em Informática para Internet, apaixonado por tecnologia, música e **Engenharia de Front-End**.
 
-👨🏻‍🎓 Estava cursando [Inglês Pós-Intermediário](https://www.igti.com.br/custom/desenvolvedor-front-end/) através da plataforma digital oferecida pela *Cultura Inglesa*, além de outros cursos especializados em tecnologia da informação. Estou desenvolvendo aplicações utilizando as tecnologias: **Sass**, **Scss**, **React.js**, **React Native**, **Next.js**, **Vue.js**, **Nuxt.js**, **Node.js**, **TypeScript** e **Firebase**.
+👨🏻‍🎓 Estava cursando [Inglês Pós-Intermediário](http://culturainglesaaraxa.com.br/curso/link/14/pos-intermediario-upper-intermediate) através da plataforma digital oferecida pela *Cultura Inglesa*, além de outros cursos especializados em tecnologia da informação. Estou desenvolvendo aplicações utilizando as tecnologias: **Sass**, **Scss**, **React.js**, **React Native**, **Next.js**, **Vue.js**, **Nuxt.js**, **Node.js**, **TypeScript** e **Firebase**.
 
 ## Habilidades 👨🏻‍💻
 

@@ -70,6 +70,7 @@
 	<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-fff?style=plastic&logo=vue.js" title="Vue.js" />
   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-fff?style=plastic&logoColor=1697f6&logo=vuetify" title="Vuetify" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-fff?style=plastic&logoColor=000&logo=next.js" title="Next.js" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-fff?style=plastic&logoColor=7377ad&logo=php" title="PHP" />
 </p>
 
 <!-- Tools Front-end -->

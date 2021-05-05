@@ -85,14 +85,14 @@
 
 ## Olá! Seja muito bem-vindo(a) ao meu perfil. &#128075;&#127995;&#128079;&#127995;
 
-👨🏻‍💻 Me chamo **Gabryell**, tenho 22 anos, sou formado em Informática para Internet, apaixonado por tecnologia, música e **Engenharia de Front-End**.
+👨🏻‍💻 Me chamo **Gabryell**, tenho 22 anos, sou formado em Informática para Internet, apaixonado por tecnologia, música e **Desenvolvimento de Software**.
 
 👨🏻‍🎓 Estava cursando [Inglês Pós-Intermediário](http://culturainglesaaraxa.com.br/curso/link/14/pos-intermediario-upper-intermediate) através da plataforma digital oferecida pela *Cultura Inglesa*, além de outros cursos especializados em tecnologia da informação. Estou desenvolvendo aplicações utilizando as tecnologias: **Sass**, **Scss**, **React.js**, **React Native**, **Next.js**, **Vue.js**, **Nuxt.js**, **Node.js**, **TypeScript** e **Firebase**.
 
 ## Habilidades 👨🏻‍💻
 
 <!-- Skills -->
-Algumas das minhas habilidades e conhecimentos como Engenheiro de Front-End:
+Algumas das minhas habilidades e conhecimentos com Desenvolvimento de Software:
 - 💻 **Front-end**: HTML5, CSS3 (Media Query, Animation, Flexbox, Grid, Sass, Scss), JavaScript (Ajax, jQuery, ES6+), Bootstrap, Vuetify, React.js, Next.js, React Native, Vue.js e Nuxt.js.
 - 🔠 **Linguagens**: HTML5, CSS3, JavaScript/ES6+, TypeScript e PHP.
 - 🏷️ **Versionamento**: Git.
@@ -106,8 +106,8 @@ Algumas das minhas habilidades e conhecimentos como Engenheiro de Front-End:
 ## Projetos 📊
 
 Meu top 3 de projetos mais famosos: 🏆
-1. 🥇 [iZiFinance](https://izifinance.com/) · Tenha total controle do seu negócio 24/7!
-2. 🥈 [SOS Plantão](https://sosplantao.com/) · Facilite a gestão de plantões!
+1. 🥇 [SOS Plantão](https://sosplantao.com/) · Facilite a gestão de plantões!
+2. 🥈 [iZiFinance](https://izifinance.com/) · Tenha total controle do seu negócio 24/7!
 3. 🥉 [Rede Social](https://rede.social) · Participe da sua Rede Social favorita em apenas poucos cliques!
 
 <!-- GitHub Stats -->

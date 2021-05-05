@@ -30,21 +30,21 @@
 	<a href="mailto:gabryellcorrea.dev@gmail.com" target="_blank">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/-gabryellcorrea.dev-c14438?&style=plastic&logo=Gmail&logoColor=white" title="Gmail Badge" />
   </a>
-	<a href="https://www.facebook.com/gabryellpedroso" target="_blank">
+<!-- 	<a href="https://www.facebook.com/gabryellpedroso" target="_blank">
     <img alt="Facebook Badge" src="https://img.shields.io/badge/-Gabryell%20Pedroso-blue?&style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004317732004" title="Facebook Badge" />
-  </a>
-	<a href="https://api.whatsapp.com/send?phone=+5513996922826&text=Olá,+vi+seu+GitHub&source=&data=&app_absent=" target="_blank">
+  </a> -->
+<!-- 	<a href="https://api.whatsapp.com/send?phone=+5513996922826&text=Olá,+vi+seu+GitHub&source=&data=&app_absent=" target="_blank">
     <img alt="Whatsapp Badge" src="https://img.shields.io/badge/-Gabryell%20Pedroso-4fc65a?&style=plastic&logo=Whatsapp&logoColor=white" title="Whatsapp Badge" />
-  </a>
+  </a> -->
 	<a href="https://www.instagram.com/theSpiderDev/" target="_blank">
     <img alt="nstagram Badge" src="https://img.shields.io/badge/-theSpiderDev-ec544c?&style=plastic&logo=Instagram&logoColor=white" title="Instagram Badge" />
   </a>
-	<a href="https://twitter.com/theSpiderDev" target="_blank">
-    <img alt="Twitter Badge" src="https://img.shields.io/badge/-theSpiderDev-fff?fff&style=plastic&logo=twitter" title="Twitter Badge" />
+	<a href="https://twitter.com/gabryellpedroso" target="_blank">
+    <img alt="Twitter Badge" src="https://img.shields.io/badge/-gabryellpedroso-fff?fff&style=plastic&logo=twitter" title="Twitter Badge" />
   </a>
-	<a href="https://medium.com/@owltechnology" target="_blank">
+<!-- 	<a href="https://medium.com/@owltechnology" target="_blank">
     <img alt="Medium Badge" src="https://img.shields.io/badge/-@owltechnology-fff?fff&style=plastic&logo=medium&logoColor=black" title="Medium Badge" />
-  </a>
+  </a> -->
 	<a href="https://github.com/theSpiderDev" target="_blank">
     <img alt="GitHub Badge" src="https://img.shields.io/badge/-theSpiderDev-fff?fff&style=plastic&logo=github&logoColor=black" title="GitHub Badge" />
   </a>

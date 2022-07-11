@@ -14,12 +14,12 @@
 	<img alt="GitHub Gabryell Pedroso" src="https://img.shields.io/badge/GitHub-theSpiderDev-6ad600?style=plastic&color=6ad600" title="GitHub Gabryell Pedroso" />
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/theSpiderDev?style=plastic&color=6ad600" title="GitHub followers" />
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/theSpiderDev?style=plastic&color=6ad600" title="GitHub User's stars" />
-	<img alt="Years Badge" src="https://badges.pufler.dev/years/theSpiderDev?style=plastic&color=6ad600" title="Years Badge" />
-	<img alt="Repos Badge" src="https://badges.pufler.dev/repos/theSpiderDev?style=plastic&color=6ad600" title="Repos Badge" />
-	<img alt="Visits Badge" src="https://badges.pufler.dev/visits/theSpiderDev/theSpiderDev?style=plastic&color=6ad600" title="Visits Badge" />
-	<img alt="Created Badge" src="https://badges.pufler.dev/created/theSpiderDev/theSpiderDev?style=plastic&color=6ad600" title="Created Badge" />
+	<!-- <img alt="Years Badge" src="https://badges.pufler.dev/years/theSpiderDev?style=plastic&color=6ad600" title="Years Badge" /> -->
+	<!-- <img alt="Repos Badge" src="https://badges.pufler.dev/repos/theSpiderDev?style=plastic&color=6ad600" title="Repos Badge" /> -->
+	<!-- <img alt="Visits Badge" src="https://badges.pufler.dev/visits/theSpiderDev/theSpiderDev?style=plastic&color=6ad600" title="Visits Badge" /> -->
+	<!-- <img alt="Created Badge" src="https://badges.pufler.dev/created/theSpiderDev/theSpiderDev?style=plastic&color=6ad600" title="Created Badge" /> -->
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/theSpiderDev/theSpiderDev?style=plastic&color=6ad600" title="GitHub last commit" />
-	<img alt="Updated Badge" src="https://badges.pufler.dev/updated/theSpiderDev/theSpiderDev?style=plastic&color=6ad600" title="Updated Badge" />
+	<!-- <img alt="Updated Badge" src="https://badges.pufler.dev/updated/theSpiderDev/theSpiderDev?style=plastic&color=6ad600" title="Updated Badge" /> -->
 </p>
 
 <!-- Social Networks -->
@@ -85,9 +85,9 @@
 
 ## Olá! Seja muito bem-vindo(a) ao meu perfil. &#128075;&#127995;&#128079;&#127995;
 
-👨🏻‍💻 Me chamo **Gabryell**, tenho 22 anos, sou formado em Informática para Internet, apaixonado por tecnologia, música e **Desenvolvimento de Software**.
+👨🏻‍💻 Me chamo **Gabryell**, tenho 23 anos, sou formado em Informática para Internet, apaixonado por tecnologia, música e **Desenvolvimento de Software**.
 
-👨🏻‍🎓 Estava cursando [Inglês Pós-Intermediário](http://culturainglesaaraxa.com.br/curso/link/14/pos-intermediario-upper-intermediate) através da plataforma digital oferecida pela *Cultura Inglesa*, além de outros cursos especializados em tecnologia da informação. Estou desenvolvendo aplicações utilizando as tecnologias: **Sass**, **Scss**, **React.js**, **React Native**, **Next.js**, **Vue.js**, **Nuxt.js**, **Node.js**, **TypeScript** e **Firebase**.
+👨🏻‍🎓 Estava cursando [Inglês Pós-Intermediário](http://culturainglesaaraxa.com.br/curso/link/14/pos-intermediario-upper-intermediate) através da plataforma digital oferecida pela *Cultura Inglesa*, além de outros cursos especializados em tecnologia da informação. Atualmente estou cursando Engenharia de Software na Universidade Estácio e também estou desenvolvendo aplicações utilizando as tecnologias: **Sass**, **Scss**, **React.js**, **React Native**, **Next.js**, **Vue.js**, **Nuxt.js**, **Node.js**, **TypeScript** e **Firebase**.
 
 ## Habilidades 👨🏻‍💻
 
@@ -106,9 +106,9 @@ Algumas das minhas habilidades e conhecimentos com Desenvolvimento de Software:
 ## Projetos 📊
 
 Meu top 3 de projetos mais famosos: 🏆
-1. 🥇 [SOS Plantão](https://sosplantao.com/) · Facilite a gestão de plantões!
-2. 🥈 [iZiFinance](https://izifinance.com/) · Tenha total controle do seu negócio 24/7!
-3. 🥉 [Rede Social](https://rede.social) · Participe da sua Rede Social favorita em apenas poucos cliques!
+1. 🥇 [Americanas Mercado](https://amercado.americanas.com.br/mercados) · Tudo, toda hora e em qualquer lugar!
+2. 🥈 [SOS Plantão](https://sosplantao.com/) · Facilite a gestão de plantões!
+3. 🥉 [iZiFinance](https://izifinance.com/) · Tenha total controle do seu negócio 24/7!
 
 <!-- GitHub Stats -->
 ## Estatísticas do GitHub &#129302;
